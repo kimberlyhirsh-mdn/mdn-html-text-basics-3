@@ -1,0 +1,10 @@
+/* CSS files add styling rules to your content */
+
+h1,
+strong {
+  color: purple;
+}
+
+em {
+  color: gray;
+}
